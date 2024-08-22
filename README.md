@@ -1,3 +1,11 @@
+# ⚠️ Deprecation Notice
+
+**This repository is deprecated and is no longer actively maintained.**
+
+The repository will be publicly archived, meaning it will remain accessible in a read-only state. Please consider using [SofaGym](https://github.com/SofaDefrost/SofaGym) and [LapGym](https://github.com/ScheiklP/lap_gym) as they have much better implementations and are actively maintained.
+
+---
+
 # Soft Tissue Manipulation
 
 This repo contains the main code for the paper [Sim-to-Real Surgical Robot Learning and Autonomous Planning for Internal Tissue Points Manipulation Using Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10065553).
